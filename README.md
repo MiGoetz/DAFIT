@@ -1,4 +1,6 @@
 # Source code for artificial dataset
+Copyright © German Cancer Research Center (DKFZ), Division of Medical Image Computing (MIC). 
+
 This source code can be used to generate an artificial radiomics dataset. It is possible to simulating different noise levels by combinding the provided methods in different ways. 
 
 In order to generate a dataset like it is used in the corresponding publication, call the script 010_GenerateArtificialDataset.py.
